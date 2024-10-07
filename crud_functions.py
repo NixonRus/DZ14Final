@@ -64,6 +64,6 @@ def get_all_products():
 
 
 # print(get_all_products()[0][1]) '''Поверка метода извлечения значений из функции'''
-initiate_db()
+# initiate_db()
 # get_all_products()
 # is_included('sasha')
